@@ -11,7 +11,10 @@ Institution: Universidade de Trás-os-Montes e Alto Douro
 
 ----
 ## Order of operations
-1 - data_processing.R
-2 - data_transformation.R
-3 - exploratory_analysis.R
-4 - data_fitting.R
+1. data_processing.R
+
+2. data_transformation.R
+
+3. exploratory_analysis.R
+
+4. data_fitting.R
