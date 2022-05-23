@@ -8,3 +8,10 @@ by: João Paulo Freitas Pereira
 Institution: Universidade de Trás-os-Montes e Alto Douro
 
 2022
+
+----
+## Order of operations
+1 - data_processing.R
+2 - data_transformation.R
+3 - exploratory_analysis.R
+4 - data_fitting.R
